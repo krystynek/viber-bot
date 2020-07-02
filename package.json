@@ -1,0 +1,23 @@
+{
+  "name": "viber-claim-bot",
+  "version": "0.1.0",
+  "description": "Automatic claim bot for viber messanger",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bot",
+    "viber",
+    "express"
+  ],
+  "author": "Lubos Krystynek",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "viber-bot": "^1.0.16",
+    "winston": "^3.3.3",
+    "winston-console-formatter": "^1.0.0-beta.3"
+  }
+}
